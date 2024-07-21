@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "enum-ornek", "enum-ornek\enum-ornek.csproj", "{04DE4A23-4822-473B-983D-611590083F89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04DE4A23-4822-473B-983D-611590083F89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04DE4A23-4822-473B-983D-611590083F89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04DE4A23-4822-473B-983D-611590083F89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04DE4A23-4822-473B-983D-611590083F89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {202CD822-0612-4A2E-B82E-2AEF2B196563}
+	EndGlobalSection
+EndGlobal

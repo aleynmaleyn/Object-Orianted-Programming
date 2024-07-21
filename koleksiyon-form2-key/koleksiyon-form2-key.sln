@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "koleksiyon-form2-key", "koleksiyon-form2-key\koleksiyon-form2-key.csproj", "{4EE84AE6-CF45-4C2F-B1DA-76250438A82F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EE84AE6-CF45-4C2F-B1DA-76250438A82F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EE84AE6-CF45-4C2F-B1DA-76250438A82F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EE84AE6-CF45-4C2F-B1DA-76250438A82F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EE84AE6-CF45-4C2F-B1DA-76250438A82F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C95B772-6254-4B00-841A-D49DBDF3141A}
+	EndGlobalSection
+EndGlobal
